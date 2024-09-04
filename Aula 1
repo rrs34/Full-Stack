@@ -1,1 +1,29 @@
+<!-- O Doctype diz ao navegador qual tipo de documento será carregado-->
+<!DOCTYPE html>
+<!--a tag html inicia o nosso documento-->
+<html lang="pt-br">
+    <head>
+     <!--Título aparece na aba do navegador;
+        O atributo lang informa qual o idioma da página-->
+      <title>De Zero a Um</title>
+      <!--a meta charset informa qual conjunto de caracteres será utilizado-->
+      <meta charset="utf-8"/>
+    </head>
+    <body>
+      <h1 style="color:brown">Transformando Desafios em Oportunidades</h1>
+      <p>Imagine uma trajetória onde a reinvenção se torna a principal ferramenta de sucesso. Aos 37 anos, decidi sair da minha zona de conforto e explorar um universo completamente novo: o da tecnologia. Hoje, sou estudante de Análise e Desenvolvimento de Sistemas: Full Stack e Mobile na PUC-RS, mas essa história começou muito antes.
 
+        Meu interesse pela área de TI nasceu da curiosidade e da necessidade de acompanhar as mudanças do mundo moderno. Percebi que o crescimento vem da coragem de se reinventar e explorar novas possibilidades. Foi aí que me desafiei a aprender algo totalmente novo, mesmo que isso significasse enfrentar alguns medos pelo caminho.
+        
+        Cada código que escrevo é um tijolo na construção de um futuro onde posso me ver como uma desenvolvedora capaz de criar soluções inovadoras. Sei que não estou sozinha nessa jornada. Outras mulheres também estão buscando se reinventar, e quero mostrar que é possível. A mensagem que levo comigo e compartilho é simples: <strong>Não se trata apenas de aprender algo novo; trata-se de se permitir sonhar de novo</strong>. A tecnologia é só o começo. O verdadeiro objetivo? Transformar desafios em oportunidades e inspirar outras pessoas a fazer o mesmo.</p>
+
+      <h2>Como Me Encontrei na TI</h2>
+      <p>Sabe aquele momento em que você olha para a sua vida e percebe que é hora de mudar? Foi assim que tudo começou para mim. Minha jornada na área de TI começou com uma influência poderosa: minha amiga Nicole Freitas. Assim como eu, Nicole enfrentou muitos desafios na vida profissional, mas demonstrou uma coragem incrível ao fazer uma transição de carreira. Essa coragem me inspirou profundamente. Eu já tinha um interesse despertado em estudar algo relacionado à tecnologia, mas não sabia por onde começar.<p>
+        <p> Foi então que comecei a explorar vídeos no YouTube sobre as diferentes áreas dentro da TI. Nesse processo, descobri a playlist de Algoritmos do professor Guanabara, muito conhecido e respeitado entre os profissionais da área. A partir daí, a lógica de programação começou a fazer sentido para mim, e meu interesse pela programação só cresceu.<p>
+        <p>Logo, me vi entrando em grupos no Telegram e WhatsApp, onde pessoas compartilhavam suas experiências e cursos. E foi ali que descobri uma bolsa 100% gratuita na PUC-RS. Inscrevi-me, fui aprovada e, com um mix de emoção e nervosismo, iniciei minha graduação em Análise e Desenvolvimento de Sistemas.<p>
+        <p>Paralelamente, dei outro passo: me inscrevi em um curso Full-Stack pela Cejabrasil, também gratuito. Hoje, estou imersa em linguagens como Python, HTML, CSS e JavaScript, cada uma revelando um pouco mais sobre o que sou capaz de fazer.<p>
+        <p>Essa jornada tem sido como uma viagem de descoberta. Aprendi que a vida é cheia de possibilidades e que nunca é tarde para seguir novos caminhos.<p>
+        
+
+    </body>
+ <html>
